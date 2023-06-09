@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Strawberry</string>
+    <string name="title">Simple Strawberry</string>
+    <string name="location">New Delhi</string>
+    <string name="order">Order Take Away</string>
+    <string name="desc_one">We are a family owned Mediterranean restaurant, focused on traditional recipes with a modern twist</string>
+</resources>
